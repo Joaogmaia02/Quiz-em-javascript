@@ -14,4 +14,5 @@ avestruz, pinguim, pato, águia, tartaruga, crocodilo e cobra.
 
 • É herbívoro? Sim.
 
-• Então o animal escolhido foi o cavalo.
+
+### Então o animal escolhido foi o cavalo.
